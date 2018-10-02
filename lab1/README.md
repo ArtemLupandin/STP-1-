@@ -1,2 +1,0 @@
-# STP
-modern programming tech
